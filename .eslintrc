@@ -1,0 +1,10 @@
+extends: airbnb-base
+env:
+  browser: true
+rules:
+  consistent-return: off
+  func-names: off
+  no-nested-ternary: off
+  no-param-reassign: off
+  no-plusplus: off
+  prefer-const: off
